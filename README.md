@@ -5,7 +5,7 @@ This project utilizes the [ArUco library](https://www.uco.es/investiga/grupos/av
 
 ## Dependencies ##
 
-Install the [ArUco library](https://www.uco.es/investiga/grupos/ava/node/26) (Written/tested with version 2.0.19):
+Install the [ArUco library](https://www.uco.es/investiga/grupos/ava/node/26) (Written/tested with version 2.0.19, also seems to work with 3.1.0):
 
     $ mkdir build
     $ cd build
